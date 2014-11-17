@@ -1,0 +1,29 @@
+#===============================================================
+# status of 404 (“Not Found”).
+
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule (.*) /error/status404.html
+
+#===============================================================
+# CSS, JavaScript, and image (JPEG, GIF, PNG) files are cached for 1 day.
+
+ExpiresActive On
+ 
+ExpiresByType text/css   A86400    
+ExpiresByType image/jpeg   A86400   
+ExpiresByType image/gif  A86400   
+ExpiresByType image/png  A86400   
+ExpiresByType application/javascript   A86400    
+ExpiresByType application/x-javascript   A86400  
+
+#===============================================================
+# XHTML, HTML, CSS, and JavaScript files are compressed before they are sent to the web browser.
+
+AddOutputFilterByType DEFLATE text/xhtml
+AddOutputFilterByType DEFLATE text/html
+AddOutputFilterByType DEFLATE text/css
+AddOutputFilterByType DEFLATE text/xml
+AddOutputFilterByType DEFLATE application/javascript
+AddOutputFilterByType DEFLATE application/x-javascript
