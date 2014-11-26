@@ -7,7 +7,7 @@ Description
 
 Demo
 
-    comming soon - http://p4.LinhTruong.com/Demo-Linh_Truong_-_CSCIE-P4.swf
+    http://p4.LinhTruong.com/Demo-Linh_Truong_-_CSCIE-P4.swf
 
 login require
 
