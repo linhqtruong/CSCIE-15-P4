@@ -7,11 +7,14 @@ Description
 
 Demo
 
-    comming soon - http://p4.LinhTruong.com/Demo-Linh_Truong_-_CSCIE-P2.swf
+    comming soon - http://p4.LinhTruong.com/Demo-Linh_Truong_-_CSCIE-P4.swf
 
-No login require
+login require
 
     comming soon
+    login URL : https://github.com/linhqtruong/CSCIE-15-P4
+    user name: linhtruong
+    password: message to jerymy on canvas
 
 outside code
 
