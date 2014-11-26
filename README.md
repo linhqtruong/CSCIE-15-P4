@@ -2,7 +2,7 @@ Linh Truong - CSCIE-15-P4
 
 Live URL: http://p4.linhtruong.com/
 
-Description: Dynamic Slideshow Website that introduce about Vietnam's travel, culture, and food 
+Dynamic Slideshow Website that introduce about Vietnam's travel, culture, and food 
 ====================================================================================
 
 Demo
