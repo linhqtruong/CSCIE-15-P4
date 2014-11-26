@@ -7,16 +7,15 @@ Description
 
 Demo
 
-    http://p4.LinhTruong.com/Demo-Linh_Truong_-_CSCIE-P2.swf
+    comming soon - http://p4.LinhTruong.com/Demo-Linh_Truong_-_CSCIE-P2.swf
 
 No login require
 
-    the file Password_Genertor.php is use to generate the password
+    comming soon
 
 outside code
 
-    word list: http://www.winedt.org/Dict/
-
-    jquery javasrcipt library: http://code.jquery.com
-
-    few image of radio button: http://www.csscheckbox.com/
+    Using wordpress, mysql, javascript, jquery
+    Some graphic about vietnam's travel, culture, and food from internet
+        
+    
