@@ -14,7 +14,7 @@ login require
     comming soon
     login URL : https://github.com/linhqtruong/CSCIE-15-P4
     user name: linhtruong
-    password: message to jerymy on canvas
+    password: message to jeremy on canvas, for security reason
 
 outside code
 
