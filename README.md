@@ -20,5 +20,15 @@ outside code
 
     Using wordpress, mysql, javascript, jquery
     Some graphic about vietnam's travel, culture, and food from internet
-        
+
+Extra Challenges
+
+    More than 10 database table with all 4 CRUD interaction
+    Password protection
+    register, create, modify and delete user account with username and password
+    Multi-paged posts, Multi menu and catalog
+    Previewing posts
+    Password protection
+    Javasript Graphic slide show
+
     
